@@ -1,4 +1,3 @@
-```markdown
 # Amazon Customer Experience & Sentiment Analysis Report (2025)
 
 ## Executive Summary
@@ -28,7 +27,7 @@ This analysis was conducted to provide stakeholders with a clear understanding o
 ## Data Overview
 
 **Dataset:** Amazon Customer Reviews Dataset
-![Data Preview Image](data-preview.PNG)
+![Data Preview Image](data_previews.png)
 
 **Source:** Kaggle
 
@@ -68,6 +67,8 @@ The following steps were completed before analysis:
 ---
 
 ## Detailed Findings & Analysis
+## Dashboard
+![Dashboard](executive_summary.png)
 
 ### 1. Customer Satisfaction Overview
 
@@ -78,6 +79,8 @@ KPIs were created to monitor:
 - Positive Sentiment Percentage
 
 These metrics provide an overview of customer satisfaction and overall brand perception.
+
+![Dashboard](sentiment_analysis.png)
 
 ### 2. Sentiment Trend Analysis
 
